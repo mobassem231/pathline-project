@@ -52,6 +52,12 @@ Clear visual cues (caret icon).
 
 Intuitive hover (desktop) and click (mobile) interactions for dropdowns.
 
+
+# pathline-task3
+Developed a basic form with input validation at the end of the main page I cloned
+
+Implemented a dynamic theme toggle for the entire page, allowing the user to switch between light mode and dark mode
+
 Smooth animations provide a modern and engaging experience.
 
 Hamburger menu for clear mobile navigation
